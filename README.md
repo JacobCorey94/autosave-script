@@ -7,7 +7,7 @@
 * SendKeys python library
 
 ## Requirements (Windows)
-* Download the .exe!
+* Download the .exe in the `dist` folder. It should work!
 
 ## What this script is
 
