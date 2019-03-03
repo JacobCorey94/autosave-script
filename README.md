@@ -1,10 +1,13 @@
 # Automatic Saving Script
 
-## Requirements
+## Requirements (All Platforms)
 
 * python 3.x
 * pip (to install SendKeys)
-* SendKeys library
+* SendKeys python library
+
+## Requirements (Windows)
+* Download the .exe!
 
 ## What this script is
 
